@@ -23,7 +23,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "d0d36cc79854de58e99c4984ef47dab41a4e7df4": {
       "FileHash": "d0d36cc79854de58e99c4984ef47dab41a4e7df4",
@@ -46,7 +50,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9": {
       "FileHash": "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9",
@@ -69,7 +77,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "565d71def9c15b19f10ec144ff29e82b9e205e31": {
       "FileHash": "565d71def9c15b19f10ec144ff29e82b9e205e31",
@@ -92,7 +104,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d": {
       "FileHash": "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d",
@@ -115,7 +131,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "f64cbea29a1e9998b8ade46d69c1ef1c584bd633": {
       "FileHash": "f64cbea29a1e9998b8ade46d69c1ef1c584bd633",
@@ -138,7 +158,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "28a9448f7c815bc154612af16634435b6987b7fc": {
       "FileHash": "28a9448f7c815bc154612af16634435b6987b7fc",
@@ -161,7 +185,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9": {
       "FileHash": "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9",
@@ -184,7 +212,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "e3243caa7ec8682a4010e25a4ae0b2359c2d7866": {
       "FileHash": "e3243caa7ec8682a4010e25a4ae0b2359c2d7866",
@@ -207,7 +239,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "25ea7bc8b398577cb2916ec833d61c38af812637": {
       "FileHash": "25ea7bc8b398577cb2916ec833d61c38af812637",
@@ -230,7 +266,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "065f423b82d69a7c9dbc6384711d2135a3b7e5ec": {
       "FileHash": "065f423b82d69a7c9dbc6384711d2135a3b7e5ec",
@@ -253,7 +293,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "277d3032f45323050e140f466f639e5606fef53a": {
       "FileHash": "277d3032f45323050e140f466f639e5606fef53a",
@@ -284,7 +328,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "d3008e3fe7da4c118c693d2b34a0b329780f8d86": {
       "FileHash": "d3008e3fe7da4c118c693d2b34a0b329780f8d86",
@@ -317,7 +365,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "86d829b1fcdd41e648ed0594eaf337b3726c143c": {
       "FileHash": "86d829b1fcdd41e648ed0594eaf337b3726c143c",
@@ -350,7 +402,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c": {
       "FileHash": "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c",
@@ -381,7 +437,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "ce115dd79b0793718f8e79bb465f244b7cc725b1": {
       "FileHash": "ce115dd79b0793718f8e79bb465f244b7cc725b1",
@@ -404,7 +464,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "bc098355d65bff2203a212f2387be6f79fbb63e8": {
       "FileHash": "bc098355d65bff2203a212f2387be6f79fbb63e8",
@@ -427,7 +491,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "2e0a09a025bcee8fc97e417b21a51773904a0d2e": {
       "FileHash": "2e0a09a025bcee8fc97e417b21a51773904a0d2e",
@@ -450,7 +518,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "e4d20bc0f083c463514e2044ce86679041263075": {
       "FileHash": "e4d20bc0f083c463514e2044ce86679041263075",
@@ -473,7 +545,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b": {
       "FileHash": "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b",
@@ -496,7 +572,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8": {
       "FileHash": "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8",
@@ -519,7 +599,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a": {
       "FileHash": "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a",
@@ -542,7 +626,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "ce17b7bb17435cd925f196e4736114982de4e056": {
       "FileHash": "ce17b7bb17435cd925f196e4736114982de4e056",
@@ -565,7 +653,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "9bda555be3a52c574eccfa66b114883e2f543c70": {
       "FileHash": "9bda555be3a52c574eccfa66b114883e2f543c70",
@@ -588,7 +680,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "37c34dfa85386e8d190a5cfd459c3a6885cca838": {
       "FileHash": "37c34dfa85386e8d190a5cfd459c3a6885cca838",
@@ -611,7 +707,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "056b0c86701cfd096c863560836dc129ecefc862": {
       "FileHash": "056b0c86701cfd096c863560836dc129ecefc862",
@@ -634,7 +734,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "3d766f5b9e2bb9284e717d5a998b1a7c291221fc": {
       "FileHash": "3d766f5b9e2bb9284e717d5a998b1a7c291221fc",
@@ -657,7 +761,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2": {
       "FileHash": "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2",
@@ -680,7 +788,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "31eea97ab4912ca241557cddbf59929e085ebe80": {
       "FileHash": "31eea97ab4912ca241557cddbf59929e085ebe80",
@@ -703,7 +815,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "0f4922e1df8725aad839211dbe0dfc532692f606": {
       "FileHash": "0f4922e1df8725aad839211dbe0dfc532692f606",
@@ -726,7 +842,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "d7b3908ae670a7bcc976f2675834316862a25802": {
       "FileHash": "d7b3908ae670a7bcc976f2675834316862a25802",
@@ -749,7 +869,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "ef2664b6dd61bd55898971adf7e4a57f92be88cc": {
       "FileHash": "ef2664b6dd61bd55898971adf7e4a57f92be88cc",
@@ -780,7 +904,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "7f5f99f0f0befde13272221e376006dffbddb994": {
       "FileHash": "7f5f99f0f0befde13272221e376006dffbddb994",
@@ -811,7 +939,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": {
       "FileHash": "9c9f1da0b560c44c9760583c4193bdf4eaee09f7",
@@ -834,7 +966,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "3f1843e8a1335617c562084ce69fc82ae7c2c694": {
       "FileHash": "3f1843e8a1335617c562084ce69fc82ae7c2c694",
@@ -857,7 +993,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "3e61149f7b05f74d662d3038233013ffdcbed1a3": {
       "FileHash": "3e61149f7b05f74d662d3038233013ffdcbed1a3",
@@ -882,7 +1022,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "1ba842005c2b1ce80a3670429b3e010c7b1c1f59": {
       "FileHash": "1ba842005c2b1ce80a3670429b3e010c7b1c1f59",
@@ -907,7 +1051,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "4cb0a0836e56ca31f9e101be81e1427493cbbcd5": {
       "FileHash": "4cb0a0836e56ca31f9e101be81e1427493cbbcd5",
@@ -930,7 +1078,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "54bb78b313c4f0c721862910496c5154ed5444ef": {
       "FileHash": "54bb78b313c4f0c721862910496c5154ed5444ef",
@@ -953,7 +1105,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "3714670bd9ded38e54c1f2e3f64658950c6d3f40": {
       "FileHash": "3714670bd9ded38e54c1f2e3f64658950c6d3f40",
@@ -976,7 +1132,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95": {
       "FileHash": "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95",
@@ -999,7 +1159,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "2668c9aa8c36621eb9797e634354bc7fa285d3b8": {
       "FileHash": "2668c9aa8c36621eb9797e634354bc7fa285d3b8",
@@ -1022,7 +1186,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "fc1456c57ade6862957e54ee53f18f189785848a": {
       "FileHash": "fc1456c57ade6862957e54ee53f18f189785848a",
@@ -1045,7 +1213,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "44f3bb3bec83fd779c83d0326d55c88ead77cfba": {
       "FileHash": "44f3bb3bec83fd779c83d0326d55c88ead77cfba",
@@ -1068,7 +1240,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "df54abe3d92ffaff2998e9fb3157b42cf83143c2": {
       "FileHash": "df54abe3d92ffaff2998e9fb3157b42cf83143c2",
@@ -1091,7 +1267,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "b081337b68091f95498d23fecbc64701866b2cec": {
       "FileHash": "b081337b68091f95498d23fecbc64701866b2cec",
@@ -1114,7 +1294,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "14cf6c2005eb756200e7fd065b61e4120d84c02e": {
       "FileHash": "14cf6c2005eb756200e7fd065b61e4120d84c02e",
@@ -1137,7 +1321,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "2290a81a8dbc82b7881d2b6006d70a90578f9a56": {
       "FileHash": "2290a81a8dbc82b7881d2b6006d70a90578f9a56",
@@ -1160,7 +1348,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "ca609ad6055d8053e43e482ed2e57b3db41c3549": {
       "FileHash": "ca609ad6055d8053e43e482ed2e57b3db41c3549",
@@ -1183,7 +1375,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "66cefb1620ad412d3f4e041561ae1df356fdb1e6": {
       "FileHash": "66cefb1620ad412d3f4e041561ae1df356fdb1e6",
@@ -1206,7 +1402,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "2886767875ee6a9882ca050e34787cfa1fb64109": {
       "FileHash": "2886767875ee6a9882ca050e34787cfa1fb64109",
@@ -1229,7 +1429,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "e4b793025b00cb3137eddc0e7ec437f03abdf3c4": {
       "FileHash": "e4b793025b00cb3137eddc0e7ec437f03abdf3c4",
@@ -1252,7 +1456,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "1484f03d1d80b73e3131095e3363b246929a0a35": {
       "FileHash": "1484f03d1d80b73e3131095e3363b246929a0a35",
@@ -1275,7 +1483,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "47c387c525a58a88f18e61920736a6e0e7f2098d": {
       "FileHash": "47c387c525a58a88f18e61920736a6e0e7f2098d",
@@ -1298,7 +1510,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "9abd5f2bd558706c03e2c0da58503ef914d08142": {
       "FileHash": "9abd5f2bd558706c03e2c0da58503ef914d08142",
@@ -1321,7 +1537,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     },
     "8c1262cca40e2a1f72254cf349d163ee2a4bcebe": {
       "FileHash": "8c1262cca40e2a1f72254cf349d163ee2a4bcebe",
@@ -1344,7 +1564,11 @@
       "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
     }
   }
 }
