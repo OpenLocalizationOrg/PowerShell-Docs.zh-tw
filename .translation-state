@@ -8,6 +8,7 @@
       "SourceFilePath": "CONTRIBUTING.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "CONTRIBUTING.md"
       ],
@@ -36,6 +37,7 @@
       "SourceFilePath": "dsc\\archiveResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
@@ -64,6 +66,7 @@
       "SourceFilePath": "dsc\\authoringResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
@@ -92,6 +95,7 @@
       "SourceFilePath": "dsc\\authoringResourceClass.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResourceClass.md"
       ],
@@ -120,6 +124,7 @@
       "SourceFilePath": "dsc\\authoringResourceComposite.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResourceComposite.md"
       ],
@@ -148,6 +153,7 @@
       "SourceFilePath": "dsc\\authoringResourceMOF.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResourceMOF.md"
       ],
@@ -176,6 +182,7 @@
       "SourceFilePath": "dsc\\authoringResourceMofCS.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResourceMofCS.md"
       ],
@@ -204,6 +211,7 @@
       "SourceFilePath": "dsc\\authoringResourceMofDesigner.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\authoringResourceMofDesigner.md"
       ],
@@ -232,6 +240,7 @@
       "SourceFilePath": "dsc\\builtInResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\builtInResource.md"
       ],
@@ -260,6 +269,7 @@
       "SourceFilePath": "dsc\\configData.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\configData.md"
       ],
@@ -288,6 +298,7 @@
       "SourceFilePath": "dsc\\configurations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\configurations.md"
       ],
@@ -316,6 +327,7 @@
       "SourceFilePath": "dsc\\enactingConfigurations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\enactingConfigurations.md"
       ],
@@ -354,6 +366,7 @@
       "DependencyFrom": [
         "dsc\\enactingConfigurations.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\images\\Push.png"
       ],
@@ -392,6 +405,7 @@
       "DependencyFrom": [
         "dsc\\enactingConfigurations.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\images\\Pull.png"
       ],
@@ -428,6 +442,7 @@
       "SourceFilePath": "dsc\\environmentResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\environmentResource.md"
       ],
@@ -464,6 +479,7 @@
       "SourceFilePath": "dsc\\fileResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\fileResource.md"
       ],
@@ -492,6 +508,7 @@
       "SourceFilePath": "dsc\\groupResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\groupResource.md"
       ],
@@ -520,6 +537,7 @@
       "SourceFilePath": "dsc\\lnxArchiveResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxArchiveResource.md"
       ],
@@ -548,6 +566,7 @@
       "SourceFilePath": "dsc\\lnxBuiltInResources.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxBuiltInResources.md"
       ],
@@ -576,6 +595,7 @@
       "SourceFilePath": "dsc\\lnxEnvironmentResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxEnvironmentResource.md"
       ],
@@ -604,6 +624,7 @@
       "SourceFilePath": "dsc\\lnxFileLineResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxFileLineResource.md"
       ],
@@ -632,6 +653,7 @@
       "SourceFilePath": "dsc\\lnxFileResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxFileResource.md"
       ],
@@ -660,6 +682,7 @@
       "SourceFilePath": "dsc\\lnxGettingStarted.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxGettingStarted.md"
       ],
@@ -688,6 +711,7 @@
       "SourceFilePath": "dsc\\lnxGroupResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxGroupResource.md"
       ],
@@ -716,6 +740,7 @@
       "SourceFilePath": "dsc\\lnxPackageResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxPackageResource.md"
       ],
@@ -744,6 +769,7 @@
       "SourceFilePath": "dsc\\lnxScriptResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxScriptResource.md"
       ],
@@ -772,6 +798,7 @@
       "SourceFilePath": "dsc\\lnxServiceResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxServiceResource.md"
       ],
@@ -800,6 +827,7 @@
       "SourceFilePath": "dsc\\lnxSshAuthorizedKeysResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxSshAuthorizedKeysResource.md"
       ],
@@ -828,6 +856,7 @@
       "SourceFilePath": "dsc\\lnxUserResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\lnxUserResource.md"
       ],
@@ -856,6 +885,7 @@
       "SourceFilePath": "dsc\\logResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\logResource.md"
       ],
@@ -884,6 +914,7 @@
       "SourceFilePath": "dsc\\metaConfig.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\metaConfig.md"
       ],
@@ -912,6 +943,7 @@
       "SourceFilePath": "dsc\\metaConfig4.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\metaConfig4.md"
       ],
@@ -948,6 +980,7 @@
       "SourceFilePath": "dsc\\overview.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\overview.md"
       ],
@@ -984,6 +1017,7 @@
       "SourceFilePath": "dsc\\packageResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\packageResource.md"
       ],
@@ -1012,6 +1046,7 @@
       "SourceFilePath": "dsc\\partialConfigs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\partialConfigs.md"
       ],
@@ -1042,6 +1077,7 @@
       "DependencyFrom": [
         "dsc\\partialConfigs.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\images\\PartialConfig1.jpg"
       ],
@@ -1072,6 +1108,7 @@
       "DependencyFrom": [
         "dsc\\partialConfigs.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\images\\PartialConfigPullServer.jpg"
       ],
@@ -1100,6 +1137,7 @@
       "SourceFilePath": "dsc\\pullClient.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\pullClient.md"
       ],
@@ -1128,6 +1166,7 @@
       "SourceFilePath": "dsc\\pullClientConfigID.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\pullClientConfigID.md"
       ],
@@ -1156,6 +1195,7 @@
       "SourceFilePath": "dsc\\pullClientConfigID4.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\pullClientConfigID4.md"
       ],
@@ -1184,6 +1224,7 @@
       "SourceFilePath": "dsc\\pullClientConfigNames.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\pullClientConfigNames.md"
       ],
@@ -1212,6 +1253,7 @@
       "SourceFilePath": "dsc\\pullServer.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\pullServer.md"
       ],
@@ -1240,6 +1282,7 @@
       "SourceFilePath": "dsc\\queryServerNodes.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\queryServerNodes.md"
       ],
@@ -1268,6 +1311,7 @@
       "SourceFilePath": "dsc\\registryResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\registryResource.md"
       ],
@@ -1296,6 +1340,7 @@
       "SourceFilePath": "dsc\\resources.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\resources.md"
       ],
@@ -1324,6 +1369,7 @@
       "SourceFilePath": "dsc\\scriptResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\scriptResource.md"
       ],
@@ -1352,6 +1398,7 @@
       "SourceFilePath": "dsc\\secureMOF.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\secureMOF.md"
       ],
@@ -1380,6 +1427,7 @@
       "SourceFilePath": "dsc\\secureServer.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\secureServer.md"
       ],
@@ -1408,6 +1456,7 @@
       "SourceFilePath": "dsc\\serviceResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\serviceResource.md"
       ],
@@ -1436,6 +1485,7 @@
       "SourceFilePath": "dsc\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\TOC.md"
       ],
@@ -1464,6 +1514,7 @@
       "SourceFilePath": "dsc\\troubleshooting.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\troubleshooting.md"
       ],
@@ -1492,6 +1543,7 @@
       "SourceFilePath": "dsc\\userResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\userResource.md"
       ],
@@ -1520,6 +1572,7 @@
       "SourceFilePath": "dsc\\windowsfeatureResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\windowsfeatureResource.md"
       ],
@@ -1548,6 +1601,7 @@
       "SourceFilePath": "dsc\\windowsProcessResource.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "dsc\\windowsProcessResource.md"
       ],
@@ -1576,6 +1630,7 @@
       "SourceFilePath": "README.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "README.md"
       ],
@@ -1604,6 +1659,7 @@
       "SourceFilePath": "README.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "README.md"
       ],
