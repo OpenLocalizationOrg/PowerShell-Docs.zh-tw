@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 65
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 57
+[ Handoff Success Files ](#handoff-success-list)| 56
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 8
+[ Ignored Files ](#ignored-list)| 9
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -66,7 +66,6 @@
  [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/414637d15df6927f455eee7150f79148ea47c023/dsc/secureMOF.md) | HandedOffSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e50)
  [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/414637d15df6927f455eee7150f79148ea47c023/dsc/secureServer.md) | HandedOffSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5651)
  [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/414637d15df6927f455eee7150f79148ea47c023/dsc/serviceResource.md) | HandedOffSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354952)
- [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc is cool.md) | HandedOffSuccess | [Details](#69d23bf4e3d757777db90569dc8de830aeaf15d953)
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/Test1/SonjaFileToo.md) | HandedOffSuccess | [Details](#6c6311c3d6bdafefa766356266b6aa934c84f4c954)
  [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/testmove2/overview-test2.md) | HandedOffSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a655)
  [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/414637d15df6927f455eee7150f79148ea47c023/dsc/TOC.md) | HandedOffSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e656)
@@ -94,6 +93,7 @@
  [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c2)
  [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.publish.config.json) | Ignored | [Details](#8d82385b0d2a38e30f607bf841c712f023ee8d853)
  [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/docfx.json) | Ignored | [Details](#c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215)
+ [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc ROCKS.md) | Ignored | [Details](#2b29976a764a8377742da0a7204dff32f89ef99f53)
  [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3161)
  [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f963)
  [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35864)
@@ -739,12 +739,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='69d23bf4e3d757777db90569dc8de830aeaf15d953'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc is cool.md)
-* Status: HandedOffSuccess
+##### <a name='2b29976a764a8377742da0a7204dff32f89ef99f53'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc ROCKS.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7f72e81d98688287b26fbd7205a1bc4ee1e24df2/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-tw/master/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.zh-tw.xlf)
-* Handoff Datetime: 2016-04-13 01:00:38
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
