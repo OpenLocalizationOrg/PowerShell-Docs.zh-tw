@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b0a0bdf93689f172c7897133c18e799d7301fb4d/dsc/archiveResource.md) | HandedOffSuccess | [Details](#39649aca9e61d188fb9ad855e4d1b8b63ee6491f5)
+ [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/7e1e458944d1d3ea9e8efea6ccb4628924b7c99c/dsc/archiveResource.md) | HandedOffSuccess | [Details](#ab3dcf116b796f6c2b6f87b99c0fb644fff8cdbe5)
 
 ## Item Details
-##### <a name='39649aca9e61d188fb9ad855e4d1b8b63ee6491f5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b0a0bdf93689f172c7897133c18e799d7301fb4d/dsc/archiveResource.md)
+##### <a name='ab3dcf116b796f6c2b6f87b99c0fb644fff8cdbe5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/7e1e458944d1d3ea9e8efea6ccb4628924b7c99c/dsc/archiveResource.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0478fae004634c6525ab23efd5ea15f20bf8d98e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-tw/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-tw.xlf)
-* Handoff Datetime: 2016-04-13 05:40:59
+* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2e68662f456166ace53618ed38df2f2e47e33a54/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.zh-tw/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.zh-tw.xlf)
+* Handoff Datetime: 2016-04-13 06:11:04
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
